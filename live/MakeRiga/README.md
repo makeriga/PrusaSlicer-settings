@@ -9,6 +9,7 @@ The possible configuration locations are:
 Create a file named MakeRiga.ini under `./PrusaSlicer/vendor` and add the latest version of [MakeRiga config](https://github.com/makeriga/PrusaSlicer-settings/tree/master/live/MakeRiga) into the `./PrusaSlicer/vendor/MakeRiga.ini` file.
 
 ## Add the printer to local config
+Before proceeding, you have to close the PrusaSlicer.
 To configure the PrusaSlicer you need to provide details how to modify PrusaSlicer.ini that is located in configuration folder by adding this section.
 
 `./PrusaSlicer/PrusaSlicer.ini`
